@@ -5,6 +5,13 @@ html {
     margin: 0;
 }
 
-body {
-    margin: 1em;
+header {
+        float: left;
+        margin: 0;
+        background-color: cadetblue;
+}
+
+div {
+    margin-left: 5em;
+    margin-top: 0;
 }
